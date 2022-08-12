@@ -126,6 +126,7 @@
 
 
   .mobile-menu {
+    background-color: var(--white);
     position:  absolute;
     top: 60px;
     padding: 24px;
@@ -158,6 +159,7 @@
   
   /*carrito*/
   .product-detail {
+    background-color: var(--white);
     width: 360px;
     padding: 0 24px;
     box-sizing: border-box;
@@ -252,10 +254,6 @@
 }
 
   }
-
-
-
-
 
   @media (min-width: 641px)
   {
